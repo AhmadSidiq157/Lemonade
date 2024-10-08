@@ -112,7 +112,7 @@ fun LemonStep(
         )
     }
 }
-
+//menampilkan lemon
 @Preview(showBackground = true)
 @Composable
 fun DefaultPreview() {
